@@ -14,5 +14,5 @@ We almost always initialize all the weights in the model to values drawn randoml
 ## 4.What is "loss" in a neural network?
 Loss is the penalty for a bad prediction. That is, loss is a number indicating how bad the model's prediction was on a single example. If the model's prediction is perfect, the loss is zero; otherwise, the loss is greater.
 
-## What is the "chain rule" in gradient flow?
+## 5.What is the "chain rule" in gradient flow?
 The vector chain rule is the general form as it degenerates to the others. When f is a function of a single variable x and all intermediate variables u are functions of a single variable, the single-variable chain rule applies. When some or all of the intermediate variables are functions of multiple variables, the single-variable total-derivative chain rule applies. In all the other cases, the vector chain rule applies.
