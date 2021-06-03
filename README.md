@@ -48,3 +48,40 @@ Augmented the data using
 
 * ### Back translation using google translate - This involves translating a sentence from our target language into one or more other languages and then translating all of them back to the original language.
 ![image](https://user-images.githubusercontent.com/10822997/120691063-a02e7c80-c4c3-11eb-847c-3243aaa58f5b.png)
+
+## LOGS
+	Train Loss: 0.933 | Train Acc: 61.09%
+	 Val. Loss: 0.864 |  Val. Acc: 67.80% 
+
+	Train Loss: 0.835 | Train Acc: 71.13%
+	 Val. Loss: 0.838 |  Val. Acc: 70.32% 
+
+	Train Loss: 0.801 | Train Acc: 74.69%
+	 Val. Loss: 0.817 |  Val. Acc: 73.30% 
+
+	Train Loss: 0.781 | Train Acc: 76.79%
+	 Val. Loss: 0.818 |  Val. Acc: 72.67% 
+
+	Train Loss: 0.767 | Train Acc: 78.27%
+	 Val. Loss: 0.811 |  Val. Acc: 73.81% 
+
+	Train Loss: 0.755 | Train Acc: 79.51%
+	 Val. Loss: 0.809 |  Val. Acc: 73.77% 
+
+	Train Loss: 0.746 | Train Acc: 80.46%
+	 Val. Loss: 0.810 |  Val. Acc: 73.81% 
+
+	Train Loss: 0.738 | Train Acc: 81.30%
+	 Val. Loss: 0.803 |  Val. Acc: 74.34% 
+
+	Train Loss: 0.731 | Train Acc: 82.04%
+	 Val. Loss: 0.814 |  Val. Acc: 73.39% 
+
+	Train Loss: 0.725 | Train Acc: 82.66%
+	 Val. Loss: 0.817 |  Val. Acc: 73.11% 
+
+## Model Results
+
+![image](https://user-images.githubusercontent.com/10822997/120694784-3795ce80-c4c8-11eb-87d6-c616b0168b6f.png)
+
+
