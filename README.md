@@ -129,7 +129,7 @@ The model has 1,224,746 trainable parameters
 
 ## Model Training
 ```
-Epoch: 01 | Epoch Time: 0m 1s
+Epoch: 01 | Epoch Time: 0m 0s
 	Train Loss: 1.084 | Train Acc: 55.91%
 	 Val. Loss: 1.042 |  Val. Acc: 74.11%
 Epoch: 02 | Epoch Time: 0m 0s
@@ -174,6 +174,21 @@ Epoch: 14 | Epoch Time: 0m 0s
 Epoch: 15 | Epoch Time: 0m 0s
 	Train Loss: 0.599 | Train Acc: 79.01%
 	 Val. Loss: 0.608 |  Val. Acc: 81.70%
+Epoch: 16 | Epoch Time: 0m 0s
+	Train Loss: 0.566 | Train Acc: 81.08%
+	 Val. Loss: 0.615 |  Val. Acc: 81.70%
+Epoch: 17 | Epoch Time: 0m 0s
+	Train Loss: 0.526 | Train Acc: 82.69%
+	 Val. Loss: 0.605 |  Val. Acc: 82.14%
+Epoch: 18 | Epoch Time: 0m 0s
+	Train Loss: 0.493 | Train Acc: 83.95%
+	 Val. Loss: 0.596 |  Val. Acc: 81.25%
+Epoch: 19 | Epoch Time: 0m 0s
+	Train Loss: 0.451 | Train Acc: 85.73%
+	 Val. Loss: 0.597 |  Val. Acc: 81.70%
+Epoch: 20 | Epoch Time: 0m 0s
+	Train Loss: 0.418 | Train Acc: 86.66%
+	 Val. Loss: 0.578 |  Val. Acc: 82.14%
 ```
 ## Evaluate the Encoding and Decoding vectors for the input "print the outputs"
 ### Encoder Shapes and Vectors
