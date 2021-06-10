@@ -15,6 +15,12 @@
 * Getting good accuracy is NOT the target, but must achieve at least 45% or more
 * Once the model is trained, take one sentence, "print the outputs" of the encoder for each step and "print the outputs" for each step of the decoder. 
 
+## Team
+* Nishad
+* Bharath
+* Soma
+* Dinesh
+
 ## Encoder-Decoder Architecture for Classification on Tweets dataset
 
 The objective to build a model with simple encoder-decoder architecture for classification and visualize the encoding and decoding vectors at each hidden step.
