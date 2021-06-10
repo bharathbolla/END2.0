@@ -217,7 +217,7 @@ Encoding shape:  torch.Size([32, 1, 25])
 
 
 
-![image](https://user-images.githubusercontent.com/10822997/121564462-19d0e800-ca39-11eb-9399-8c4f23de6db8.png)
+
 
 
 Before entering decoder
