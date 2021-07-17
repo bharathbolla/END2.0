@@ -1,6 +1,6 @@
 
 Team Members:
-Bharth,Dinesh,Nishad, Soma
+Bharth,Dinesh,Soma
 
 
 # Glove
