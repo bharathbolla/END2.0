@@ -1,7 +1,7 @@
 # Session 12 - The Dawn of Transformers
 
 
-Team Bharath, Dinesh 
+Team Bharath, Soma,Dinesh 
 
 Github code:  https://github.com/dine1717/END2/blob/Session12/Session12__END.ipynb
 
