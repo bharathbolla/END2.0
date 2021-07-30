@@ -3,7 +3,7 @@
 
 Team Bharath, Soma,Dinesh 
 
-Github code:  https://github.com/dine1717/END2/blob/Session12/Session12__END.ipynb
+Github code:  https://github.com/bharathbolla/END2.0/blob/Assignment_12/Session12__END.ipynb
 
 ## Objective
 
