@@ -9,7 +9,7 @@ Objective: Your assignment is to remove all the legacy stuff from this and submi
 3. Link to your repo
 
 
-  Github link : https://github.com/dine1717/END2/blob/Session13/Session13.ipynb
+  Github link : https://github.com/bharathbolla/END2.0/blob/Assignment-13/Session13.ipynb
 
 1. Training Logs:
 
